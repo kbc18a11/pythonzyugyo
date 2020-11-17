@@ -1,0 +1,1004 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WPKMK2X');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9">
+<meta charset="utf-8">
+<title>livedoor</title>
+<meta name="description" content="LINE株式会社が運営するポータルサイト。速報性に加え独自の切り口を誇る「ライブドアニュース」、日本最大のブログサービス「ライブドアブログ」ほか、厳選した情報をお届けします。">
+<meta name="keywords" content="ライブドア,ポータル,ニュース,ブログ,livedoor,portal,LINE,LD">
+<meta property="og:site_name" content="livedoor">
+<meta property="og:image" content="http://image.livedoor.com/img/top/17/livedoor_small.png">
+<meta name="verify-v1" content="1bivxaxGrLBSoWSu7qAOa0M36HWHyewW+8YqCFDlBZQ=">
+
+<link rel="shortcut icon" href="/img/ie9/favicon.ico">
+
+<style type="text/css">
+    @import url('/css/16/ldtop.4.3.css');
+</style>
+
+<script src="/js/jquery.min.4.3.js"></script>
+<script src="/js/jquery.cookie.4.3.js"></script>
+<script src="/js/ldtop-ver.4.3.js"></script>
+<script src="/js/ldtop.4.3.js"></script>
+<script src="/js/weather.4.3.js"></script>
+<script src="/js/abtest/rewrite.js"></script>
+<!--[if lt IE 9]><script src="/js/html5shiv.4.3.js"></script><![endif]-->
+
+<link rel="canonical" href="http://www.livedoor.com/">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/top.xml" title="RSS主要トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/dom.xml" title="RSS国内トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/int.xml" title="RSS海外トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/eco.xml" title="RSS IT 経済トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/ent.xml" title="RSS芸能トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/spo.xml" title="RSSスポーツトピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/rss/summary/52.xml" title="RSS映画新着記事">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/gourmet.xml" title="RSSグルメトピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/love.xml" title="RSS女子トピックス">
+<link rel="alternate" type="application/rss+xml" href="https://news.livedoor.com/topics/rss/trend.xml" title="RSSトレンドトピックス">
+
+<!-- UniversalAnalytics -->
+<script>
+function GAProxy(){
+    this.push = function(args){
+        if(args.length > 5){
+            throw "invalid argument length";
+        }
+        var eventName = args[0];
+        var category = args[1];
+        var action = args[2];
+        var label = args[3];
+        var value = args[4];
+        if(eventName !== '_trackEvent'){ // ignore
+            return;
+        }
+        if(typeof(action) === "undefined"){
+            alert("actionが設定されていません");
+            return;
+        }
+        var params = ["send", "event", category, action, label, value];
+        var filtered_params = params.filter(function(e){
+            return typeof(e) !== "undefined";
+        });
+        if(typeof(ga) !== "undefined"){
+            ga.apply(window, filtered_params);
+        }
+    };
+}
+var _gaq = new GAProxy();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-1661457-18', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+ 
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/21627555768/livedoor_TOP/PC/main_middle_left', [300, 250], 'div-gpt-ad-1523251167609-0').addService(googletag.pubads());
+    googletag.defineSlot('/21627555768/livedoor_TOP/PC/main_middle_right', [300, 250], 'div-gpt-ad-1523251186864-0').addService(googletag.pubads());
+    googletag.defineSlot('/21627555768/livedoor_TOP/PC/sbu_1st', [300, 250], 'div-gpt-ad-1523251221036-0').addService(googletag.pubads());
+    googletag.pubads().setTargeting('env', ["production"]);
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WPKMK2X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+
+<header>
+    <section id="common-header">
+        <div class="common-header-inner">
+            <h1><a href="/" title="livedoor" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ロゴ','']);">livedoor</a></h1>
+            <ul>
+                <li><a href="https://news.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション','ニュース']);">ニュース</a></li>
+                <li><a href="https://blog.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション','ブログ']);">ブログ</a></li>
+                <li><a href="https://livedoor.blogcms.jp/member/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション','ブログを書く']);">ブログを書く</a></li>
+                <li><a href="http://blogos.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション','BLOGOS']);">BLOGOS</a></li>
+                <li class="menu_open"><a>全て<span>▼</span></a>
+                    <aside id="slide-box">
+                        <a class="btn_close">全て<span>▲</span></a>
+                        <ul>
+                            <li><a href="http://girls.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション/全て','Peachy']);">Peachy</a></li>
+                            <li><a href="http://www.kstyle.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション/全て','Kstyle']);">Kstyle</a></li>
+                            <li><a href="http://blogroll.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', 'ナビゲーション/全て','相互RSS']);">相互RSS</a></li>
+                        </ul>
+                    </aside><!--/#slide-box-->
+                </li>
+            </ul>
+            <div id="member">
+        <ul>
+        <li><span class="guestname">ゲストさん</span></li>
+        <li><a href="https://member.livedoor.com/register/email?.sv=top" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', '未ログイン','ユーザー登録']);">ユーザー登録</a></li>
+        <li><a href="http://member.livedoor.com/login/?.sv=top" onclick="_gaq.push(['_trackEvent', 'PC_ヘッダー', '未ログイン','ログイン']);">ログイン</a></li>
+    </ul>
+    </div>
+
+        </div>
+    </section>
+</header>
+
+<section id="container">
+
+    
+    
+
+<aside id="side-bar">
+
+    <section class="side-premium">
+    <script type="text/javascript"><!--
+    google_ad_client = "ca-pub-6988676431156825";
+    /* top_1st_300×250_b */
+    google_ad_slot = "5580519287";
+    google_ad_width = 300;
+    google_ad_height = 250;
+    //-->
+    </script>
+    <!--
+    <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+    -->
+    <!-- /21627555768/livedoor_TOP/PC/sbu_1st -->
+      <div id='div-gpt-ad-1523251221036-0'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523251221036-0'); });
+        </script>
+      </div>
+    </section>
+
+    <aside id="weather-setting">
+        <a class="btn-close">設定</a>
+        <dl>
+            <dt>天気エリア</dt>
+            <dd>
+                <form id="weather-form" onsubmit="return false">
+                    <ul>
+                        <li>
+                            <label id="area1-label">都道府県</label>
+                            <select name="pref_id" id="select-area1"></select>
+                            <span class="area1-select"></span>
+                         </li>
+                        <li>
+                            <label id="area1-labe2">エリア</label>
+                            <select name="city_id" id="select-area2"></select>
+                            <span class="area2-select"></span>
+                        </li>
+                    </ul>
+                    <button type="submit">決定</button>
+                </form>
+            </dd>
+        </dl>
+    </aside>
+
+    
+
+
+
+    <section class="side-theme side-column">
+        
+    <h2>注目のテーマ</h2>
+    <ul>
+        <li>
+            <a class="adjustment" href="https://news.livedoor.com/%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85%E3%81%8C%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BA%E9%80%80%E6%89%80/topics/keyword/40890/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','山下智久がジャニーズ退所']);">
+                <img src="https://image.news.livedoor.com/newsimage/stf/1/b/1bbb1_249_20201115019-cs.jpg?v=20201115215828" alt="山下智久がジャニーズ退所" height="80" />
+                
+            </a>
+            <h3><a href="https://news.livedoor.com/%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85%E3%81%8C%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BA%E9%80%80%E6%89%80/topics/keyword/40890/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','山下智久がジャニーズ退所']);">山下智久がジャニーズ退所</a></h3>
+            <ul>
+                <li><a id="topics_2780537" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19227379/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','山下智久がジャニーズ退所/記事リンク']);">山P退所 手越祐也「時が来たな」</a><span class="new">new</span></li>
+                <li><a id="topics_2069192" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19225510/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','山下智久がジャニーズ退所/記事リンク']);">自粛中の退所に中丸 美しくない</a></li>
+                <li><a id="topics_2068871" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19225118/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','山下智久がジャニーズ退所/記事リンク']);">山Pの退社事後報告「前代未聞」</a></li>
+            </ul>
+        </li>
+        <li>
+            <a class="adjustment" href="https://news.livedoor.com/%E3%83%8A%E3%82%A4%E3%83%8A%E3%82%A4%E5%B2%A1%E6%9D%91%E9%9A%86%E5%8F%B2%E3%81%8C%E7%B5%90%E5%A9%9A/topics/keyword/40879/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','ナイナイ岡村隆史が結婚']);">
+                <img src="https://image.news.livedoor.com/newsimage/stf/e/f/ef031_1399_bbcc6292_8ecc0e43-cs.jpg?v=20201115191453" alt="ナイナイ岡村隆史が結婚" height="80" />
+                
+            </a>
+            <h3><a href="https://news.livedoor.com/%E3%83%8A%E3%82%A4%E3%83%8A%E3%82%A4%E5%B2%A1%E6%9D%91%E9%9A%86%E5%8F%B2%E3%81%8C%E7%B5%90%E5%A9%9A/topics/keyword/40879/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','ナイナイ岡村隆史が結婚']);">ナイナイ岡村隆史が結婚</a></h3>
+            <ul>
+                <li><a id="topics_2069191" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19226860/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','ナイナイ岡村隆史が結婚/記事リンク']);">岡村隆史「先輩」に結婚報告せず</a></li>
+                <li><a id="topics_2063326" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19181344/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','ナイナイ岡村隆史が結婚/記事リンク']);">岡村結婚で「叱られる」場面も</a></li>
+                <li><a id="topics_2060734" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19162164/" onclick="_gaq.push(['_trackEvent', 'サイドカラム', '注目のテーマ','ナイナイ岡村隆史が結婚/記事リンク']);">岡村隆史 同居せずも食事楽しみ</a></li>
+            </ul>
+        </li>
+    </ul>
+    <script type="text/javascript">
+    var rand_topics_title_hash = {};
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2780537'] = topics_ab_title;
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2069192'] = topics_ab_title;
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2068871'] = topics_ab_title;
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2069191'] = topics_ab_title;
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2063326'] = topics_ab_title;
+
+    var topics_ab_title = new Array();
+    var target_topics = {};
+
+    
+    
+    
+    topics_ab_title = randomAdv(target_topics);
+    rand_topics_title_hash['topics_2060734'] = topics_ab_title;
+
+
+    rewrite_topics_titles(rand_topics_title_hash);
+    $(".rewrite_ab").css("visibility","visible");
+    </script>
+
+    </section>
+
+    
+
+</aside><!-- /#side-bar -->
+
+<section id="main-column">
+
+    <section class="news-topics">
+        <ul>
+                  <li><a href="https://news.livedoor.com/topics/category/main/" class="topics_tab" id="topics_category_default" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','主要/ニュースタブ']);">主要</a></li>
+                  <li><a href="https://news.livedoor.com/topics/category/dom/" class="topics_tab" id="topics_category_8" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','国内/ニュースタブ']);">国内</a></li>
+                  <li><a href="https://news.livedoor.com/topics/category/world/" class="topics_tab" id="topics_category_41" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','海外/ニュースタブ']);">海外</a></li>
+                  <li class="wide"><a href="https://news.livedoor.com/topics/category/eco/" class="topics_tab" id="topics_category_11" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','経済/ニュースタブ']);">IT 経済</a></li>
+                  <li class="wide"><a href="https://news.livedoor.com/topics/category/sports/" class="topics_tab" id="topics_category_5" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','スポーツ/ニュースタブ']);">スポーツ</a></li>
+                  <li><a href="https://news.livedoor.com/topics/category/ent/" class="topics_tab" id="topics_category_46" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','エンタメ/ニュースタブ']);">芸能</a></li>
+                  <li class="wide"><a href="https://news.livedoor.com/topics/category/gourmet/" class="topics_tab" id="topics_category_gourmet" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','グルメ/ニュースタブ']);">グルメ</a></li>
+                  <li><a href="https://news.livedoor.com/topics/category/love/" class="topics_tab" id="topics_category_love" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','恋愛/ニュースタブ']);">女子</a></li>
+                  <li class="wide"><a href="https://news.livedoor.com/topics/category/trend/" class="topics_tab" id="topics_category_trend" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースタブ','トレンド/ニュースタブ']);">トレンド</a></li>
+        </ul>
+    <div id="news-topics">
+    
+<div id="newstopicsbox">
+
+    <figure id="topics-image">
+        <a id="headline_link_389388" href="https://news.livedoor.com/topics/detail/19234335/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">
+            
+            <img id="headline_img_2_389388" src="https://image.news.livedoor.com/newsimage/stf/b/7/b75b0_929_spnldpc-20201117-0124-001-p-0-cm.jpg?v=20201117094050" alt="" title="" class="verticallyLong" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" />
+            
+        </a>
+        <figcaption><a id="headline_389388" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234335/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">三浦氏 文春砲契機の自粛に疑問</a></figcaption>
+    </figure >
+
+    <ol>
+          <li><a id="topics_2781654" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233899/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">19億円詐取問題 言い逃れの音声</a>            <span class="new">新着</span>        </a></li>
+          <li><a id="topics_2781659" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234240/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">梅毒 恋人の風俗利用で感染も</a>            <span class="new">新着</span>        </a></li>
+          <li><a id="topics_2781591" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234161/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">日本の機械なしでは銃も作れず?</a>        </a></li>
+          <li><a id="topics_2781668" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234083/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">なにわナンバー誕生の裏に苦悩</a>            <span class="new">新着</span>        </a></li>
+          <li><a id="topics_2781640" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233706/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">皇室の結婚 困難は昭和天皇にも</a>        </a></li>
+          <li><a id="topics_2781624" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233663/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">吉田茂氏が激怒した日本学術会議</a>        </a></li>
+          <li><a id="topics_2781484" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233577/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">小室圭さんに皇室出禁の条件か</a>        </a></li>
+          <li><a id="topics_2781627" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19232595/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">炎上懸念も 下着企画に絶賛の声</a>        </a></li>
+          <li><a id="topics_2781615" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233590/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">阿部華也子 ナンパ酒場でキスか</a>        </a></li>
+          <li><a id="topics_2781645" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234214/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">てんちむ「やらせ疑惑」に反論</a>        </a></li>
+          <li><a id="topics_2781663" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19234206/" class="tx" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','主要']);">近藤真彦の自粛に「ここまで…」</a>            <span class="new">新着</span>        </a></li>
+    </ol>
+
+    <p class="detail-link"><a href="https://news.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニューストピックス','ニューストップ']);">一覧</a></p>
+
+</div><!--/#newstopicsbox-->
+<script type="text/javascript">
+var rand_topics_title_hash = {};
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781654'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781659'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781591'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781668'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781640'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781624'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781484'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781627'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781615'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781645'] = topics_ab_title;
+
+var topics_ab_title = new Array();
+var target_topics = {};
+
+
+
+
+topics_ab_title = randomAdv(target_topics);
+rand_topics_title_hash['topics_2781663'] = topics_ab_title;
+
+
+var rand_headline_title_hash = {};
+var rand_headline_category_hash = {};
+var rand_headline_image_hash = {};
+var rand_headline_link_hash = {};
+var rand_headline_link_category_hash = {};
+var headline_ab_title = new Array();
+var target_headline = {};
+
+
+
+
+headline_ab_title = randomAdv(target_headline);
+rand_headline_image_hash['headline_img_1_389388'] = headline_ab_title;
+rand_headline_image_hash['headline_img_2_389388'] = headline_ab_title;
+rand_headline_image_hash['headline_img_3_389388'] = headline_ab_title;
+rand_headline_title_hash['headline_389388'] = headline_ab_title;
+rand_headline_category_hash['headline_389388'] = 1;
+rand_headline_link_hash['headline_link_389388'] = headline_ab_title;
+rand_headline_link_category_hash['headline_link_389388'] = 1;
+
+rewrite_headline_titles(rand_headline_title_hash,rand_headline_category_hash);
+rewrite_headline_link(rand_headline_link_hash,rand_headline_link_category_hash);
+rewrite_titles_image(rand_headline_image_hash);
+rewrite_topics_titles(rand_topics_title_hash);
+$(".rewrite_ab").css("visibility","visible");
+</script>
+
+    </div>
+</section><!-- /#blog-topics -->
+
+<form id="userParam">
+    <input type="hidden" name="topics_category_saved" value="default">
+    <input type="hidden" name="topics_category" value="default">
+</form>
+<script>
+    var ApiKey = 'tuDasVyfqwcpBhHQykmXx629p1CzKihy';
+    $(function() {
+      var topics_category = $('#userParam [name=topics_category_saved]').val();
+      var id = "topics_category_" + topics_category;
+      if (topics_category != $('#userParam [name=topics_category]').val()) {
+        $("#" + id).trigger("click", [ true ]);
+      }
+      $("#" + id).addClass('active');
+    });
+</script>
+
+<section class="news-ranking">
+    <h2>ニュースランキング</h2>
+    
+<div id="topics-ranking">
+<ol class="headline">
+<li class="ranking-1">
+    <a id="article_link_2070300" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233719/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','｢外食代の節約10年で755万円｣1億円貯めた女性が毎日食べているもの']);">
+    <span class="num">1</span>
+    <figure class="topics-ranking-photo">
+        <div class="ranking-photo"><img id="article_img_2070300" class="rewrite_ab" src="https://image.news.livedoor.com/newsimage/stf/9/8/98653_1238_57460743dab2aa456a05ec56a19a0633-cs.jpg?v=20201117072128" alt="1億円貯める女性 日常で食べる物" height="108" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" /></div>
+        <figcaption id="article_2070300" class="rewrite_ab" >1億円貯める女性 日常で食べる物</figcaption>
+    </figure>
+    </a>
+</li>
+<li class="ranking-2">
+    <a id="article_link_2069656" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19229201/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','「ＰＳ５転売狂騒曲」のウラで不思議現象　ＤＳソフトが中古市場で高騰']);">
+    <span class="num">2</span>
+    <figure class="topics-ranking-photo">
+        <div class="ranking-photo"><img id="article_img_2069656" class="rewrite_ab" src="https://image.news.livedoor.com/newsimage/stf/9/4/94c8b_1399_3726ea0f_0f5a2dc8-cs.jpg?v=20201116113804" alt="PS5転売の裏で中古DSソフト高騰" height="108" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" /></div>
+        <figcaption id="article_2069656" class="rewrite_ab" >PS5転売の裏で中古DSソフト高騰</figcaption>
+    </figure>
+    </a>
+</li>
+<li class="ranking-3">
+    <a id="article_link_2070045" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19229769/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','ひろゆき、リオ五輪「1選手に42個コンドーム配布」「そういうイベント」感染拡大に結び付け物議']);">
+    <span class="num">3</span>
+    <figure class="topics-ranking-photo">
+        <div class="ranking-photo"><img id="article_img_2070045" class="rewrite_ab" src="https://image.news.livedoor.com/newsimage/stf/3/3/33316_929_spnldpc-20201104-0118-005-p-0-cs.jpg?v=20201116162305" alt="ひろゆき氏の五輪巡る発言が物議" height="108" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" /></div>
+        <figcaption id="article_2070045" class="rewrite_ab" >ひろゆき氏の五輪巡る発言が物議</figcaption>
+    </figure>
+    </a>
+</li>
+<li class="ranking-4">
+    <a id="article_link_2070105" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19232394/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','沖縄県庁でクラスター　課長ら6職員感染　飲食店で会食「4人以下」守らず']);">
+    <span class="num">4</span>
+    <figure class="topics-ranking-photo">
+        <div class="ranking-photo"><img id="article_img_2070105" class="rewrite_ab" src="https://image.news.livedoor.com/newsimage/stf/f/a/faaca_1715_efeaa5fd_f3e7df66-cs.jpg?v=20201116201953" alt="沖縄県庁で集団感染 警報守らず" height="108" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" /></div>
+        <figcaption id="article_2070105" class="rewrite_ab" >沖縄県庁で集団感染 警報守らず</figcaption>
+    </figure>
+    </a>
+</li>
+<li class="ranking-5">
+    <a id="article_link_2070170" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19232929/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','富士通子会社社長が現行犯逮捕　運転の車で死亡事故　過失致傷容疑']);">
+    <span class="num">5</span>
+    <figure class="topics-ranking-photo">
+        <div class="ranking-photo"><img id="article_img_2070170" class="rewrite_ab" src="https://image.news.livedoor.com/newsimage/stf/9/5/95e9f_1715_f32e8774_c60844eb-cs.jpg?v=20201116225515" alt="はねた? 富士通子会社社長を逮捕" height="108" onMouseDown="return false;" onSelectStart="return false;" oncontextmenu="return false;" galleryimg="no" /></div>
+        <figcaption id="article_2070170" class="rewrite_ab" >はねた? 富士通子会社社長を逮捕</figcaption>
+    </figure>
+    </a>
+</li>
+</ol><ol>
+<li class="ranking-6">
+    <a id="article_link_2070274" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19232323/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','東野幸治、ステイホームで「激太り」のジミー大西を激写「テディベアみたい」']);">
+    <span class="num">6</span>
+    <span id="article_2070274" class="rewrite_ab" >東野 太ったジミー大西を激写</span>
+    </a>
+</li>
+<li class="ranking-7">
+    <a id="article_link_2070121" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19231929/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','だしパックの煮すぎが原因？　保育園の給食で食中毒　東京']);">
+    <span class="num">7</span>
+    <span id="article_2070121" class="rewrite_ab" >だし煮すぎが原因? 給食で食中毒</span>
+    </a>
+</li>
+<li class="ranking-8">
+    <a id="article_link_2070214" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233661/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','「大韓航空とアシアナ合併」「日本路線を再開」でも　従業員の「無給休職」は続く']);">
+    <span class="num">8</span>
+    <span id="article_2070214" class="rewrite_ab" >無給休職続ける韓国の航空会社</span>
+    </a>
+</li>
+<li class="ranking-9">
+    <a id="article_link_2070209" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233099/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','マスク代金を踏み倒そうとした疑い　暴力団幹部らを逮捕']);">
+    <span class="num">9</span>
+    <span id="article_2070209" class="rewrite_ab" >暴力団幹部らが代金踏み倒しか</span>
+    </a>
+</li>
+<li class="ranking-10">
+    <a id="article_link_2070133" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19228156/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','文大統領、「外交の無能ぶり」を自ら証明した「菅\u002d文在寅宣言」のヒドい中身']);">
+    <span class="num">10</span>
+    <span id="article_2070133" class="rewrite_ab" >「菅-文在寅宣言」ひどい中身</span>
+    </a>
+</li>
+</ol><ol>
+<li class="ranking-11">
+    <a id="article_link_2070066" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19231265/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','ジョニー・デップのファン反撃！　元妻アンバーの映画「アクアマン２」降板求め１４０万人署名']);">
+    <span class="num">11</span>
+    <span id="article_2070066" class="rewrite_ab" >ジョニデ降板 ファンが反撃開始</span>
+    </a>
+</li>
+<li class="ranking-12">
+    <a id="article_link_2070011" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19231798/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','NTT、ドコモのTOB終了　携帯値下げ12月にも公表へ']);">
+    <span class="num">12</span>
+    <span id="article_2070011" class="rewrite_ab" >NTT 携帯値下げを12月にも公表へ</span>
+    </a>
+</li>
+<li class="ranking-13">
+    <a id="article_link_2070078" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19231228/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','【ニュースの核心】危険なバイデン氏への過剰期待　トランプ政権と大きく違う「対中政策」、中国の「邪悪さ」にいつ気づくか']);">
+    <span class="num">13</span>
+    <span id="article_2070078" class="rewrite_ab" >危険なバイデン氏への過剰期待</span>
+    </a>
+</li>
+<li class="ranking-14">
+    <a id="article_link_2070279" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19232546/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','日産は即否定！「三菱自動車の保有株売却検討」報道なぜ出たのか？']);">
+    <span class="num">14</span>
+    <span id="article_2070279" class="rewrite_ab" >日産の三菱株売却報道 なぜ出た?</span>
+    </a>
+</li>
+<li class="ranking-15">
+    <a id="article_link_2070187" class="rewrite_ab" href="https://news.livedoor.com/topics/detail/19233776/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ニュースランキング','博報堂DYMの元社員ら逮捕　架空CMで7億円超を詐取か']);">
+    <span class="num">15</span>
+    <span id="article_2070187" class="rewrite_ab" >博報堂DYM元社員 7億円超詐取か</span>
+    </a>
+</li>
+</ol>
+</div>
+<script type="text/javascript">
+var rand_article_title_hash = {};
+var rand_article_title_link_hash = {};
+var rand_article_title_image_hash = {};
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070300'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070300'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070300'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2069656'] = article_ab_title;
+rand_article_title_link_hash['article_link_2069656'] = article_ab_title;
+rand_article_title_image_hash['article_img_2069656'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070045'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070045'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070045'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070105'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070105'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070105'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070170'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070170'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070170'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070274'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070274'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070274'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070121'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070121'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070121'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070214'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070214'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070214'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070209'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070209'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070209'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070133'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070133'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070133'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070066'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070066'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070066'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070011'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070011'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070011'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070078'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070078'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070078'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070279'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070279'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070279'] = article_ab_title;
+
+var article_ab_title = new Array();
+var target_article = {};
+
+
+
+
+article_ab_title = randomAdv(target_article);
+rand_article_title_hash['article_2070187'] = article_ab_title;
+rand_article_title_link_hash['article_link_2070187'] = article_ab_title;
+rand_article_title_image_hash['article_img_2070187'] = article_ab_title;
+
+rewrite_titles_figcaption_span(rand_article_title_hash);
+rewrite_topics_link(rand_article_title_link_hash);
+rewrite_titles_image_alt(rand_article_title_image_hash);
+$(".rewrite_ab").css("visibility","visible");
+</script>
+
+</section>
+
+<section class="blogos">
+    <h2>BLOGOS</h2>
+    
+<a href="https://blogos.com/outline/498112/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','ヘッドライン画像']);" target="_blank">
+    <figure>
+        <img src="https://static.blogos.com/media/img/402863/ref_m.jpg" width="300" alt="米製薬企業モデルナのコロナワクチン報道で株価上昇" title="米製薬企業モデルナのコロナワクチン報道で株価上昇" />
+        <figcaption>米製薬企業モデルナのコロナワクチン報道で株価上昇</figcaption>
+    </figure>
+</a>
+
+
+
+<ol id="blogos-article-list">
+    <li><a href="https://blogos.com/outline/498134/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス1']);" target="_blank">日経平均 約29年ぶり2万6000円台</a></li>
+
+    <li><a href="https://blogos.com/outline/498101/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス2']);" target="_blank">五輪断念を想定 1月解散あるか</a></li>
+
+    <li><a href="https://blogos.com/outline/498112/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス3']);" target="_blank">NY株 ワクチン好感で最高値更新</a></li>
+
+    <li><a href="https://blogos.com/outline/498118/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス4']);" target="_blank">AIが提言 都市集中より地方分散</a></li>
+
+    <li><a href="https://blogos.com/outline/498045/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス5']);" target="_blank">RCEP署名 茂木外相の尽力を称賛</a></li>
+
+    <li><a href="https://blogos.com/outline/498119/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス6']);" target="_blank">マック第三のドライブスルー発表</a></li>
+
+    <li><a href="https://blogos.com/outline/498126/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス7']);" target="_blank">売れてない芸人YouTubeの魅力</a></li>
+
+    <li><a href="https://blogos.com/outline/498114/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','トピックス8']);" target="_blank">近藤真彦 無期限の活動自粛処分</a></li>
+
+</ol>
+
+    <p class="detail-link"><a onclick="_gaq.push(['_trackEvent', 'メインカラム', 'BLOGOS','もっと見る/BLOGOS']);" href="http://blogos.com/" target="_blank">一覧</a></p>
+</section>
+
+<section class="ad-box">
+    <!-- /21627555768/livedoor_TOP/PC/main_middle_left -->
+    <div id='div-gpt-ad-1523251167609-0'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523251167609-0'); });
+      </script>
+    </div>
+    <!-- /21627555768/livedoor_TOP/PC/main_middle_right -->
+    <div id='div-gpt-ad-1523251186864-0'>
+      <script>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1523251186864-0'); });
+      </script>
+    </div>
+</section>
+
+<section class="blog-news">
+    <h2>ブログニュース</h2>
+    <div id="blog-topics-box" class="boxbody">
+        
+
+<a href="http://blog.livedoor.jp/satosato0412/archives/57389572.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','妻が夫に「早く寝よう」と言った理由']);" target="_blank">
+    <figure>
+        <img src="https://resize.blogsys.jp/d15a5d5225b08c9c98b1afc0dbe326d03b05087d/trim2/114x219_21p_299x184/https://livedoor.blogimg.jp/satosato0412/imgs/b/2/b2a79def.png" width="300" alt="妻が夫に「早く寝よう」と言った理由" title="妻が夫に「早く寝よう」と言った理由" />
+        <figcaption>妻が夫に「早く寝よう」と言った理由</figcaption>
+    </figure>
+</a>
+
+<ol id="blog-article-list">
+    <li><a href="http://blog.livedoor.jp/wadacycle-news/archives/83397711.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','マーブル模様の自転車用グリップ']);" target="_blank">マーブル模様の自転車用グリップ</a></li>
+    <li><a href="http://blog.livedoor.jp/alexgarden/archives/52171226.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','屋内で開花に成功したプルメリア']);" target="_blank">屋内で開花に成功したプルメリア</a></li>
+    <li><a href="http://tetsuyahakamata.livedoor.blog/archives/7878355.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','全日本モトクロス選手権 予選結果は…']);" target="_blank">全日本モトクロス選手権 予選結果は…</a></li>
+    <li><a href="http://mpluskdays.jp/archives/24743423.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','「冬はコタツがある暮らしが好き」']);" target="_blank">「冬はコタツがある暮らしが好き」</a></li>
+    <li><a href="https://overseasnurse.blog.jp/archives/7276773.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','海外の青果店で目にした\u0022光景\u0022']);" target="_blank">海外の青果店で目にした&quot;光景&quot;</a></li>
+    <li><a href="http://www.gamecast-blog.com/archives/65972017.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','感染症がテーマのスマホゲーム']);" target="_blank">感染症がテーマのスマホゲーム</a></li>
+    <li><a href="http://blog.livedoor.jp/kariby/archives/42227614.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','壁に止まっていた\u0022白い虫\u0022の正体']);" target="_blank">壁に止まっていた&quot;白い虫&quot;の正体</a></li>
+    <li><a href="http://hamusoku.com/archives/10311772.html" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','うつ病になった同期が復職したのだが']);" target="_blank">うつ病になった同期が復職したのだが</a></li>
+</ol>
+
+<p class="detail-link"><a href="https://blog.livedoor.com/news/" onclick="_gaq.push(['_trackEvent', 'メインカラム', 'ブログニュース','ブログニュース一覧']);" target="_blank">もっと見る</a></p>
+
+    </div>
+</section>
+
+
+
+<section class="blog-ranking">
+    <h2>ブログランキング</h2>
+    
+<div id="blog-ranking">
+    <ol>
+    
+        <li value="1" class="ranking-1"><a title="生まれた“日にち”でわかる「メンタルの強さ」ランキング！！お前らのメンタルは何位でしたか！？" href="http://jin115.com/archives/52305588.html" class="value1" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','生まれた“日にち”でわかる「メンタルの強さ」ラン']);" target="_blank"><span class="num">1</span>生まれた“日にち”でわかる「メンタルの強さ」ランキング！！...</a><span class="blog-name">オレ的ゲーム速報＠...</span></li>
+    
+    
+        <li value="2" class="ranking-2"><a title="【新型コロナ】大阪府の吉村知事、ガチなお願い！！！....." href="http://www.akb48matomemory.com/archives/1078161108.html" class="value2" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【新型コロナ】大阪府の吉村知事、ガチなお願い！！']);" target="_blank"><span class="num">2</span>【新型コロナ】大阪府の吉村知事、ガチなお願い！！！.....</a><span class="blog-name">NEWSまとめもりー｜...</span></li>
+    
+    
+        <li value="3" class="ranking-3"><a title="唐川（Cランク）井納（Cランク）FA宣言濃厚←これ" href="http://blog.livedoor.jp/nanjstu/archives/57400956.html" class="value3" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','唐川（Cランク）井納（Cランク）FA宣言濃厚←これ']);" target="_blank"><span class="num">3</span>唐川（Cランク）井納（Cランク）FA宣言濃厚←これ</a><span class="blog-name">なんじぇいスタジア...</span></li>
+    
+    
+        <li value="4" class="ranking-4"><a title="「コロナで不安」４才と２才が浴室で死亡していた事件、母親を付近の用水路で発見自ら切り付けた傷もあり無理心中か？" href="http://hamusoku.com/archives/10319224.html" class="value4" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','「コロナで不安」４才と２才が浴室で死亡していた事']);" target="_blank"><span class="num">4</span>「コロナで不安」４才と２才が浴室で死亡していた事件、母親を...</a><span class="blog-name">ハムスター速報</span></li>
+    
+    
+        <li value="5" class="ranking-5"><a title="【衝撃画像】りんご農家からまさかの『100%蜜りんご』が発見されて36万いいねの大反響！「知ってるリンゴと完全に別の何か」「洋菓子が実ったみたい」「禁断の果実」" href="http://blog.esuteru.com/archives/9609777.html" class="value5" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【衝撃画像】りんご農家からまさかの『100%蜜りんご']);" target="_blank"><span class="num">5</span>【衝撃画像】りんご農家からまさかの『100%蜜りんご』が発見さ...</a><span class="blog-name">はちま起稿</span></li>
+    
+    
+        <li value="6" class="ranking-6"><a title="だしパックの煮すぎで化学物質「ヒスタミン」が溶け出す保育園の給食で食中毒" href="http://blog.livedoor.jp/dqnplus/archives/2004400.html" class="value6" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','だしパックの煮すぎで化学物質「ヒスタミン」が溶け']);" target="_blank"><span class="num">6</span>だしパックの煮すぎで化学物質「ヒスタミン」が溶け出す保育園...</a><span class="blog-name">痛いニュース(ﾉ∀`...</span></li>
+    
+    
+        <li value="7" class="ranking-7"><a title="みんながガチで経験した怖い話ってある？" href="http://blog.livedoor.jp/nwknews/archives/5710750.html" class="value7" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','みんながガチで経験した怖い話ってある？']);" target="_blank"><span class="num">7</span>みんながガチで経験した怖い話ってある？</a><span class="blog-name">哲学ニュースnwk</span></li>
+    
+    
+        <li value="8" class="ranking-8"><a title="【朗報】井上雄彦の「リアル」新刊発売！←6年ぶりってヤバくね…" href="http://girlsvip-matome.com/acv/1078284294.html" class="value8" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【朗報】井上雄彦の「リアル」新刊発売！←6年ぶり']);" target="_blank"><span class="num">8</span>【朗報】井上雄彦の「リアル」新刊発売！←6年ぶりってヤバく...</a><span class="blog-name">ガールズVIPまとめ</span></li>
+    
+    
+        <li value="9" class="ranking-9"><a title="陶芸体験行ったら手出しを許さないタイプの先生だった" href="http://mamekichimameko.blog.jp/archives/83419903.html" class="value9" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','陶芸体験行ったら手出しを許さないタイプの先生だっ']);" target="_blank"><span class="num">9</span>陶芸体験行ったら手出しを許さないタイプの先生だった</a><span class="blog-name">まめきちまめこニー...</span></li>
+    
+    
+        <li value="10" class="ranking-10"><a title="正直鬼滅の映画で泣いた奴w" href="http://burusoku-vip.com/archives/1969023.html" class="value10" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','正直鬼滅の映画で泣いた奴w']);" target="_blank"><span class="num">10</span>正直鬼滅の映画で泣いた奴w</a><span class="blog-name">ぶる速-VIP</span></li>
+    
+    </ol><ol>
+    
+    
+        <li value="11" class="ranking-11"><a title="吹いた画像を貼るのだ『これどうなってんの？ 状況が飲み込めないんだが』" href="http://world-fusigi.net/archives/9715805.html" class="value11" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','吹いた画像を貼るのだ『これどうなってんの？ 状況']);" target="_blank"><span class="num">11</span>吹いた画像を貼るのだ『これどうなってんの？ 状況が飲み込め...</a><span class="blog-name">不思議.net</span></li>
+    
+    
+        <li value="12" class="ranking-12"><a title="【悲報】アイマスオタクの影響か子供たちの公園から遊具が撤去されてしまう…" href="http://onecall2ch.com/archives/9715967.html" class="value12" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【悲報】アイマスオタクの影響か子供たちの公園から']);" target="_blank"><span class="num">12</span>【悲報】アイマスオタクの影響か子供たちの公園から遊具が撤去...</a><span class="blog-name">わんこーる速報！</span></li>
+    
+    
+        <li value="13" class="ranking-13"><a title="旦那と離婚したいんだけど慰謝料の相場ってどのくらい？" href="http://matometanews.com/archives/1992343.html" class="value13" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','旦那と離婚したいんだけど慰謝料の相場ってどのくら']);" target="_blank"><span class="num">13</span>旦那と離婚したいんだけど慰謝料の相場ってどのくらい？</a><span class="blog-name">まとめたニュース</span></li>
+    
+    
+        <li value="14" class="ranking-14"><a title="「小遣い月1万3000円、昼食代込み。家事育児も疲れた」という夫がマジでヤバい・・・" href="http://news4vip.livedoor.biz/archives/52377193.html" class="value14" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','「小遣い月1万3000円、昼食代込み。家事育児も疲れ']);" target="_blank"><span class="num">14</span>「小遣い月1万3000円、昼食代込み。家事育児も疲れた」という...</a><span class="blog-name">【2ch】ニュー速ク...</span></li>
+    
+    
+        <li value="15" class="ranking-15"><a title="ビートたけし「フライデーの編集部乗り込むぞコノヤロー」編集次長「...」" href="http://blog.livedoor.jp/news23vip/archives/5710773.html" class="value15" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','ビートたけし「フライデーの編集部乗り込むぞコノヤ']);" target="_blank"><span class="num">15</span>ビートたけし「フライデーの編集部乗り込むぞコノヤロー」編集...</a><span class="blog-name">VIPPERな俺</span></li>
+    
+    
+        <li value="16" class="ranking-16"><a title="【悲報】20代の寝なくていい体力は子育てのための体力！だけど、それを社会が消費してるのではないだろうか" href="http://otanew.jp/archives/9609705.html" class="value16" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【悲報】20代の寝なくていい体力は子育てのための体']);" target="_blank"><span class="num">16</span>【悲報】20代の寝なくていい体力は子育てのための体力！だけど...</a><span class="blog-name">オタクニュース</span></li>
+    
+    
+        <li value="17" class="ranking-17"><a title="30年生きてきたワイが思う関わってはいけない人間達・・・・・・" href="http://inazumanews2.com/archives/55213226.html" class="value17" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','30年生きてきたワイが思う関わってはいけない人間達']);" target="_blank"><span class="num">17</span>30年生きてきたワイが思う関わってはいけない人間達・・・・・...</a><span class="blog-name">稲妻速報</span></li>
+    
+    
+        <li value="18" class="ranking-18"><a title="【超画像】NMB48の絶対的エース・白間美瑠さんの完璧すぎるボディωωωωωωωωωωω" href="http://rabitsokuhou.2chblog.jp/archives/68836496.html" class="value18" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','【超画像】NMB48の絶対的エース・白間美瑠さんの完']);" target="_blank"><span class="num">18</span>【超画像】NMB48の絶対的エース・白間美瑠さんの完璧すぎるボ...</a><span class="blog-name">ラビット速報</span></li>
+    
+    
+        <li value="19" class="ranking-19"><a title="地球最強生物クマムシの新種、紫外線を青い蛍光に変え無害化する能力を持っていた（インド研究）" href="http://karapaia.com/archives/52296563.html" class="value19" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','地球最強生物クマムシの新種、紫外線を青い蛍光に変']);" target="_blank"><span class="num">19</span>地球最強生物クマムシの新種、紫外線を青い蛍光に変え無害化す...</a><span class="blog-name">カラパイア</span></li>
+    
+    
+        <li value="20" class="ranking-20"><a title="ドイツのコロナワクチン開発会社CEO「来年の冬には日常の生活に戻るだろう」＝韓国の反応" href="http://blog.livedoor.jp/kaikaihanno/archives/57398452.html" class="value20" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','ドイツのコロナワクチン開発会社CEO「来年の冬には']);" target="_blank"><span class="num">20</span>ドイツのコロナワクチン開発会社CEO「来年の冬には日常の生活...</a><span class="blog-name">カイカイ反応通信</span></li>
+    
+    
+    </ol>
+    <p class="detail-link"><a href="https://blog.livedoor.com/ranking/" onclick="_gaq.push(['_trackEvent', 'メインカラム', '注目ブログランキング','一覧/注目ブログランキング']);" target="_blank">もっと見る</a></p>
+</div>
+
+</section>
+
+</section><!-- /#main-column -->
+
+</section><!-- /#container -->
+
+<footer>
+    <div class="footer-inner">
+        <dl class="content-list">
+            <dt>コンテンツ一覧</dt>
+            <dd><ul>
+<li><a href="https://news.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','ニュース']);">ニュース</a></li>
+<li><a href="http://www.kstyle.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','韓流ニュース']);">Kstyle</a></li>
+</ul>
+
+<ul>
+<li><a href="https://blog.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','ブログ']);">ブログ</a></li>
+<li><a href="http://www.hangame.co.jp/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','ハンゲーム']);">ハンゲーム</a></li>
+</ul>
+
+<ul>
+<li><a href="http://baito.line.me/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','バイト探し']);">バイト探し</a></li>
+<li><a href="http://blogroll.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','Blog Roll']);">相互RSS</a></li>
+</ul>
+
+<ul>
+<li><a href="http://travel.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','格安航空券比較']);">格安航空券比較</a></li>
+<li><a href="http://a-hikkoshi.com/livedoor/index.html" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','引越し見積もり']);">引越し見積もり</a></li>
+</ul>
+
+<ul>
+<li><a href="http://girls.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'コンテンツ一覧','女性']);">Peachy</a></li>
+</ul>
+
+            </dd>
+        </dl>
+        <div class="common-footer">
+            <ul>
+                <li><a href="http://www.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','livedoorトップ']);">livedoorトップ</a></li>
+                <li><a href="https://linecorp.com/career/position/list" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','採用情報']);">採用情報</a></li>
+                <li><a href="http://ad-center.line.me/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','広告掲載']);">広告掲載</a></li>
+                <li><a href="http://docs.livedoor.com/rules/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','利用規約']);">利用規約</a></li>
+                <li><a href="http://docs.livedoor.com/privacy/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','プライバシーポリシー']);">プライバシーポリシー</a></li>
+                <li><a href="https://linecorp.com" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','会社概要']);">会社概要</a></li>
+                <li><a href="http://linecorp.com/ja/pr/news/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','プレスリリース']);">プレスリリース</a></li>
+                <li><a href="http://helpguide.livedoor.com/" onclick="_gaq.push(['_trackEvent', 'PC_フッター', 'フッターリンク','ヘルプ']);">ヘルプ</a></li>
+            </ul>
+            <p>&copy; LINE Corporation</p>
+        </div><!--/common-footer-->
+    </div><!--/footer-inner-->
+</footer>
+<aside id="close_layer"></aside>
+<script>
+$(function(){
+  $('.menu_open a').click(function(){
+    $('#slide-box').css('display','block');
+    $('aside#close_layer').css('z-index','5');
+  });
+  $('#slide-box .btn_close').click(function(){
+    $(this).parents('#slide-box').css('display','none');
+    $('aside#close_layer').css('z-index','-1');
+  });
+});
+</script>
+</body></html>
