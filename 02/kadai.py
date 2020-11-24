@@ -7,11 +7,7 @@ res = requests.get(url)
 
 soup = BeautifulSoup(res.content, "html.parser")
 
-# print(soup.find(id="chap2"))
-
 offerBox = soup.find(class_="boxPickup")
-
-companyInfo = [[], []]
 
 for element in offerBox.find_all(class_="c-job_offer-box"):
     print(element.find(class_="c-job_offer-recruiter__name").text)
