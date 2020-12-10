@@ -5,13 +5,7 @@ from pathlib import Path
 import time
 
 
-def getImageUrl(load_url):
-    html = requests.get(load_url)
-    soup = BeautifulSoup(html.content, 'html.parser')
-
-    separatorImgSrc = soup.find(class_='separator').find('img').get('src')
-    print('imageUrl =' + separatorImgSrc)
-    return separatorImgSrc
+def analysisUrl(url):
 
 
-getImageUrl(input())
+analysisUrl(input())

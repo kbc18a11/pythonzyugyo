@@ -5,18 +5,32 @@ from pathlib import Path
 import time
 
 
-def getImageUrl(load_url):
-    html = requests.get(load_url)
+def createSoup(url):
+    html = requests.get(url)
     soup = BeautifulSoup(html.content, 'html.parser')
+    return soup
 
+
+def hasNextButton(parameter_list):
+    """
+    docstring
+    """
+    pass
+
+
+def getImageUrl(url):
+    soup = createSoup(url)
     separatorImgSrc = soup.find(class_='separator').find('img').get('src')
-    print('imageUrl =' + separatorImgSrc)
+
+    if separatorImgSrc[0:6] != 'https:':
+        separatorImgSrc = 'https:' + separatorImgSrc
+
     return separatorImgSrc
 
 
 def downloadImage(imageUrl):
 
-    out_folder = Path('download4')
+    out_folder = Path('download6')
     out_folder.mkdir(exist_ok=True)
 
     imgdata = requests.get(imageUrl)
@@ -29,5 +43,30 @@ def downloadImage(imageUrl):
         pass
 
 
-imageUrl = getImageUrl('https://www.irasutoya.com/2017/10/blog-post_791.html')
-downloadImage(imageUrl)
+def readResultHtml(keyword, index):
+    step = 5
+    start = step * index
+    baseUrl = f"https://www.irasutoya.com/search?q={keyword}&max-results={step}&start={start}&by-date=false"
+
+    soup = createSoup(baseUrl)
+
+    urlList = []
+    for element in soup.find_all(class_='post-outer'):
+        readUrl = element.find(class_='boxim').find('a').get('href')
+
+        urlList.append(readUrl)
+
+        time.sleep(1)
+
+    return urlList
+
+
+keyword = 'ラーメン'
+
+for i in range(2):
+    uriList = readResultHtml(urllib.parse.quote(keyword), i)
+
+    for url in uriList:
+        imageUrl = getImageUrl(url)
+
+        downloadImage(imageUrl)
